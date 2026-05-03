@@ -11,6 +11,8 @@ It only takes a few minutes to run the program and paste it into the spreadsheet
 inventory_vulnerability_assessor.py takes an .xlsx, .XLS or CSV file with Product, version as its column names and does a lookup
 to find out about any known vunlerabilities with the software listed.
 
+collect_products_versions.py will collect the products and versions of software from the computer you're using.  I use it for testing.
+
 So long and thanks for all the fish!
 
 Patrick Stingley
